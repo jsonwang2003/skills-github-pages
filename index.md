@@ -1,3 +1,4 @@
 ---
-title: Welcome to my blog!
+title: OC robotics
+# Day 1
 ---
